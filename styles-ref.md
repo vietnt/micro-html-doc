@@ -1,3 +1,7 @@
+# Box Model
+
+![Box Model](box_model.png?raw=true "Box model")
+
 # Data Types
 
 ### int
