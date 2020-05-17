@@ -2,6 +2,16 @@
 
 ![Box Model](box_model.png?raw=true "Box model")
 
+# Examples
+
+```
+.red {
+      width: 100
+      height: 100
+      bg-color: (1, 0, 0)
+}
+```
+
 # Data Types
 
 ### int
