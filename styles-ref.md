@@ -110,3 +110,10 @@ define the ability for a item to grow if there is free space
 ```
     grow: 1  //don't care 
 ```
+
+
+# Special classes
+
+### :hover
+
+### :child-active
